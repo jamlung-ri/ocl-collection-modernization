@@ -1,0 +1,1 @@
+{"type":"Reference","collection_url":"/orgs/DemoOrg/collections/MyDemoCollection/","data":{"expressions":["/orgs/DemoOrg/sources/MyDemoSource/concepts/asdgdfg/"]},"__cascade": {"method": "sourcetoconcepts","map_types": "Q-AND-A,CONCEPT-SET","cascade_levels": "*","return_map_types": "*"}}
